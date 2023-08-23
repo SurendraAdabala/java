@@ -1,2 +1,0 @@
-# java
-mosh practice session
